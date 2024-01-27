@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9de9a3a69eefdb24c95956e5fd94bf18, type: 3}
+  m_Name: Gamedev5
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 32900000, guid: 9e0d110267e0fd14d96a0b1bd23d5bc0, type: 3}
+  SubtitleData:
+  - Content: 'for we''re game deps we''ll wear shirts
+
+      from our games because
+      marketing never'
+    Time: 3.5
+  - Content: stops
+    Time: 1
